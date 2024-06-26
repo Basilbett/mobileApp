@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">navigation-drawer</string>
+    <string name="home">Home</string>
+    <string name="Contact">Contact</string>
+    <string name="gallery">Gallery</string>
+    <string name="profile">profile</string>
+    <string name="about">About</string>
+    <string name="login">login</string>
+    <string name="communication">Communication</string>
+    <string name="Share">Share</string>
+    <string name="rateus">Rate Us</string>
+    <string name="your_name">Your Name</string>
+    <string name="basil">basilterer@gmail.com</string>
+
+    <string name="open">Open Navigation Drawer</string>
+    <string name="close">Close Navigation Drawer</string>
+</resources>
